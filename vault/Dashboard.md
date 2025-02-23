@@ -9,9 +9,8 @@ type: Managment
 
 ### Notes to read:
 ``` dataview
-LIST
+TABLE
 FROM "Daily Quick Note"
-WHERE file.size > 0
 ```
 
 --- column-break ---
