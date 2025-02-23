@@ -5,7 +5,6 @@ category: Managment
 type: Managment
 ---
 ---
-
 --- start-multi-column: Header
 
 ### Notes to read:
@@ -31,9 +30,6 @@ WHERE length(file.tags) = 0 OR length(type) = 0 OR length(category) = 0
 
 
 --- end-multi-column
-
----
-
 
 
 
