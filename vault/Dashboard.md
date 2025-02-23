@@ -4,13 +4,15 @@ tags:
 category: Managment
 type: Managment
 ---
+
 ---
 --- start-multi-column: Header
 
 ### Notes to read:
 ``` dataview
-TABLE
+LIST
 FROM "Daily Quick Note"
+WHERE file.size > 0
 ```
 
 --- column-break ---

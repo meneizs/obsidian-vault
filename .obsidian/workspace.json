@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Projects/Pessoal/Lakehouse/Iceberg Lakehouse/Iceberg Lakehouse.md",
+                "file": "vault/Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iceberg Lakehouse"
+              "title": "Dashboard"
             }
           },
           {
@@ -205,9 +205,12 @@
   "active": "d92fc331b41ab1ef",
   "lastOpenFiles": [
     "Daily Quick Note/23-02-2025.md",
-    "vault/Tasks/Pessoal/Iceberg Lakehouse/Configurar storage.md",
-    "vault/Projects/Pessoal/Lakehouse/Iceberg Lakehouse/Iceberg Lakehouse.md",
     "vault/Dashboard.md",
+    "vault/Projects/Profissional/Midas/Pipeline 2/Pipeline 2.md",
+    "vault/Projects/Pessoal/Lakehouse/Iceberg Lakehouse/Iceberg Lakehouse.md",
+    "vault/Projects/Profissional/Midas/Pipeline 2",
+    "vault/Projects/Profissional/Midas",
+    "vault/Tasks/Pessoal/Iceberg Lakehouse/Configurar storage.md",
     "Templates/note_template.md",
     "vault/Tasks/Pessoal/Projects/Iceberg Lakehouse/Configurar cluster.md",
     "vault/Projects/Pessoal/Lakehouse/Iceberg Lakehouse/draw.excalidraw.md",
@@ -224,9 +227,7 @@
     "Templates/project_task_template.md",
     "vault/Projects/Profissional/The Plumbers/dlt pipeline",
     "vault/Projects/Profissional/The Plumbers",
-    "vault/Projects/Pessoal/Lakehouse/Iceberg Lakehouse",
     "vault/Projects/Pessoal/Lakehouse/Untitled.md",
-    "vault/Projects/Pessoal/Lakehouse",
     "Templates/draw.excalidraw.md",
     "<% tp.file.folder(true) + \"draw.excalidraw\" %>.md",
     "vault/Projects/Pessoal/Iceberg Lakehouse/Iceberg Lakehouse.md",
@@ -238,7 +239,6 @@
     "vault/Tasks/Pessoal/Iceberg Lakehouse/Configuração Cluster.md",
     "vault/Tasks/Pessoal/Nome da tarefa.md",
     "<% tp.file.folder(true) + \"/draw\" %>.md",
-    "<% tp.file.folder(true) + \"/draw.excalidraw\" %>.md",
-    "vault/Projects/Pessoal/Iceberg Lakehouse/Drawing 2025-02-23 12.51.31.excalidraw.md"
+    "<% tp.file.folder(true) + \"/draw.excalidraw\" %>.md"
   ]
 }
