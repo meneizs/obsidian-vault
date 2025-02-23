@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "86eb84cabb4d00f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "74c96e087629dfe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4268f03ed0a9b558",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "3e2707f8cec0eb25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "377688e7c5696733",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4c576ab50e65b84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3480e3916889be5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dbf0841907e65f14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e3d6f882660dfe79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d095e3f5404d70b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e54838349fc7b1e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7759dd727306bd67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vault/Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "18525b06999b1b26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vault/Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dashboard"
+            }
+          },
+          {
+            "id": "89874001db5bba3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16702510564e9eca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vault/Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3e2707f8cec0eb25",
+  "lastOpenFiles": [
+    "vault/Projects/Pessoal/Lakehouse/Iceberg Lakehouse/Iceberg Lakehouse.md",
+    "vault/Projects/Pessoal/Lakehouse",
+    "Templates/project_template.md",
+    "vault/Tasks/Pessoal/Iceberg Lakehouse/Configurar cluster.md",
+    "vault/Dashboard.md",
+    "vault/Projects/Pessoal/Iceberg Lakehouse/Iceberg Lakehouse.md",
+    "vault/Tasks/Pessoal/Iceberg Lakehouse",
+    "vault/Tasks/Pessoal",
+    "vault/Projects/Pessoal/Lakehouse/Iceberg Lakehouse",
+    "vault/Projects/Pessoal/Untitled.md",
+    "Templates/task_template.md",
+    "Templates/note_template.md",
+    "Templates/project_task_template.md",
+    "Daily Quick Note/22-02-2025.md",
+    "vault/Projects/Profissional",
+    "vault/Notes/Pessoal/Iceberg Lakehouse/Iceberg Lakehouse.md",
+    "vault/Notes/Pessoal/Iceberg Lakehouse",
+    "vault/Notes/Pessoal",
+    "vault/Projects/Pessoal/Iceberg Lakehouse/draw.excalidraw.md",
+    "vault/Projects/Pessoal/Iceberg Lakehouse/draw.md",
+    "vault/Tasks/Pessoal/Iceberg Lakehouse/Configuração Cluster.md",
+    "vault/Tasks/Pessoal/Nome da tarefa.md",
+    "<% tp.file.folder(true) + \"/draw\" %>.md",
+    "<% tp.file.folder(true) + \"",
+    "<% tp.file.folder(true) + \"/draw.excalidraw\" %>.md",
+    "vault/Projects/Pessoal/Iceberg Lakehouse/Drawing 2025-02-23 12.51.31.excalidraw.md",
+    "vault/Projects/Pessoal/Iceberg Lakehouse.md",
+    "vault/Projects/Pessoal/Iceberg Lakehouse/Drawing 2025-02-22 22.08.53.excalidraw.md",
+    "Templates/draw_template.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-22 22.06.12.excalidraw.md",
+    "templates/Drawing 2025-02-22 22.05.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-22 22.03.17.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2025-02-22 22.02.43.excalidraw.md",
+    "vault/Tasks/Projects/Pessoal"
+  ]
+}
