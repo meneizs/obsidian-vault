@@ -23,9 +23,9 @@ TABLE
   file.tags AS "Tag",  
   category AS "Category", 
   type AS "Type", 
-  file.date.mtime as "Modified At."
+  file.date.mtime AS "Modified At"
 FROM "vault"
-WHERE length(file.tags) = 0 OR length(type) = 0 OR length(category) = 0
+WHERE (length(file.tags) = 0 OR length(type) = 0 OR length(category) = 0) AND file.name != "draw.excalidraw"
 ```
 
 
